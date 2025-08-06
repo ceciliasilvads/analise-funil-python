@@ -25,11 +25,8 @@ Ferramentas utilizadas
 
 ## <img src="https://stickershop.line-scdn.net/stickershop/v1/product/10066/LINEStorePC/main.png?v=2" alt="Análise EduMais" width="30"> Links úteis
 
-Apresentação - Slides: 
-https://docs.google.com/presentation/d/1m7VgsI5KIX8vey1CZK4fqg59HfMQqzaj4Iuv-SsNt24/edit?usp=sharing
+Apresentação - Slides: https://docs.google.com/presentation/d/1m7VgsI5KIX8vey1CZK4fqg59HfMQqzaj4Iuv-SsNt24/edit?usp=sharing
 
-Documentação Pandas
-https://pandas.pydata.org/docs/user_guide/index.html
+Documentação Pandas: https://pandas.pydata.org/docs/user_guide/index.html
 
-Documentação Matplotlib
-https://matplotlib.org/stable/tutorials/index.html
+Documentação Matplotlib: https://matplotlib.org/stable/tutorials/index.html
